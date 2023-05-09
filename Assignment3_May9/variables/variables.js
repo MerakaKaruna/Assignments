@@ -1,0 +1,10 @@
+var x = true;
+console.log(x);
+var y = "Karuna";
+console.log(y);
+var z = 10;
+console.log(z);
+var arr = ["JavaScript", "TypeScript", "Angular", "React", "Vue"];
+console.log(arr);
+var values = [10, "Karuna", true];
+console.log(values);
